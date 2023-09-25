@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PlusMinusCounter/static/css/main.caf7e593.css",
+    "main.js": "/PlusMinusCounter/static/js/main.2ac57a05.js",
+    "index.html": "/PlusMinusCounter/index.html",
+    "main.caf7e593.css.map": "/PlusMinusCounter/static/css/main.caf7e593.css.map",
+    "main.2ac57a05.js.map": "/PlusMinusCounter/static/js/main.2ac57a05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf7e593.css",
+    "static/js/main.2ac57a05.js"
+  ]
+}
